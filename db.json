@@ -27,6 +27,13 @@
             "enabled": false,
             "icon": "icon1",
             "name": "Expense Category #2"
+        },
+        {
+            "id": "23",
+            "type": 2,
+            "enabled": false,
+            "icon": "icon1",
+            "name": "Expense Category #3"
         }
     ]
 }
