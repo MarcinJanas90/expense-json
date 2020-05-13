@@ -1,0 +1,32 @@
+{
+    "categories": [
+        {
+            "id": "11",
+            "type": 1,
+            "enabled": true,
+            "icon": "icon1",
+            "name": "Income Category #1"
+        },
+        {
+            "id": "12",
+            "type": 1,
+            "enabled": false,
+            "icon": "icon1",
+            "name": "Income Category #2"
+        },
+        {
+            "id": "21",
+            "type": 2,
+            "enabled": true,
+            "icon": "icon1",
+            "name": "Expense Category #1"
+        },
+        {
+            "id": "22",
+            "type": 2,
+            "enabled": false,
+            "icon": "icon1",
+            "name": "Expense Category #2"
+        }
+    ]
+}
